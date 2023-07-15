@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL:](https://github.com/vladimir-semeryuk/results-summary-fm)
-- [Live Site URL:](https://vladimir-semeryuk.github.io/results-summary-fm/)
+- [Solution URL](https://github.com/vladimir-semeryuk/results-summary-fm)
+- [Live Site URL](https://vladimir-semeryuk.github.io/results-summary-fm/)
 
 ## My process
 
